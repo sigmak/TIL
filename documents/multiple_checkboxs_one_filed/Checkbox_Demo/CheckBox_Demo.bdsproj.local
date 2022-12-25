@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022-12-21 15:15:17.837.pas,C:\Users\RYZEN3200G\Documents\Borland Studio Projects\Unit1.pas=C:\dev_works\delphi_works\Checkbox_Demo\Unit1.pas</Transaction>
+    <Transaction>2022-12-21 15:15:17.838.dfm,C:\Users\RYZEN3200G\Documents\Borland Studio Projects\Unit1.dfm=C:\dev_works\delphi_works\Checkbox_Demo\Unit1.dfm</Transaction>
+    <Transaction>2022-12-21 15:15:20.316.bdsproj,C:\Users\RYZEN3200G\Documents\Borland Studio Projects\Project1.bdsproj=C:\dev_works\delphi_works\Checkbox_Demo\Project1.bdsproj</Transaction>
+    <Transaction>2022-12-21 15:17:51.649.bdsproj,C:\dev_works\delphi_works\Checkbox_Demo\Project1.bdsproj=C:\dev_works\delphi_works\Checkbox_Demo\CheckBox_Demo.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
