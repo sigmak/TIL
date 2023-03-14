@@ -1,6 +1,15 @@
-# TIL
-#### 첫 작성입니다.
-#### 마크다운 설치 및 사용법 : https://sianux1209.github.io/etc/markdown_editor_vscode/
+# White hacker 정보
 
+1. 운영체제
+   Kali Linux 
+   
+   https://www.kali.org/
+   
+2. 문서
+   beginning-ethical-hacking-with-kali-linux-computational-techniques-for-resolving-security-issues
+   https://zlibrary.to/pdfs/beginning-ethical-hacking-with-kali-linux-computational-techniques-for-resolving-security-issues
+   
+   
+   
+   
 
-#### MD 사용법 : https://heropy.blog/2017/09/30/markdown/
